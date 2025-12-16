@@ -11,7 +11,21 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/45701614227980f51
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7c66a7d3ff52a1f1aa12d5ae7d96890b/animalplanet.m3u8
 #EXTINF:-1,HBO Family
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e53a3cc72d80a2420ce4b1695c53813b/hbofamily.m3u8
+#EXTINF:-1,MEGAPIX
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/8b89588dce9e6674509426e6342a2cc0/megapix.m3u8
+#EXTINF:-1,TNT Series
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7cbb369273d8a66e140cc79e26656756/tntseries.m3u8
 #EXTINF:-1,ESPN
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/da8872145127fb474bdf52136f224aad/espn.m3u8
+#EXTINF:-1,ESPN 2
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b4b8f9c3b21f7d0f5da364bec2ae23b8/espn2.m3u8
+#EXTINF:-1,ESPN 3
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/23d35f6cecc7b2acea52c41ea169268e/espn3.m3u8
+#EXTINF:-1,ESPN 4
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b51527b0927ddf534d308f4d7bcb65ec/espn4.m3u8
+#EXTINF:-1,SporTV 2
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/f1f1c56d6fcc55742d74401931c851d9/sportv2.m3u8
+#EXTINF:-1,SporTV 3
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/35386915504e617e8f2459caed47d017/sportv3.m3u8
 #EXTINF:-1,TNT
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/92dbd04b231b0422d9582f418a2d7656/tnt.m3u8
