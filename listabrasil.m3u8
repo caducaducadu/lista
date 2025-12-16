@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Discovery Kids
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/de0c586572b6c0077450f1a8cc91c3c9/discoverykids.m3u8
+#EXTINF:-1,Nickelodeon
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/a4f169f8951d228882e651d4f5d490dc/nickelodeon.m3u8
+#EXTINF:-1,Cartoon Network
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/2096db431cff8961c38f0f006f732ce6/cartoonnetwork.m3u8
+#EXTINF:-1,Cartoonito
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/45701614227980f519b221828811159a/cartoonito.m3u8
+#EXTINF:-1,Animal Planet
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7c66a7d3ff52a1f1aa12d5ae7d96890b/animalplanet.m3u8
+#EXTINF:-1,HBO Family
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e53a3cc72d80a2420ce4b1695c53813b/hbofamily.m3u8
+#EXTINF:-1,ESPN
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/da8872145127fb474bdf52136f224aad/espn.m3u8
+#EXTINF:-1,TNT
+https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/92dbd04b231b0422d9582f418a2d7656/tnt.m3u8
