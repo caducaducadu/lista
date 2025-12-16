@@ -24,7 +24,7 @@ https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b3853568c7af485e4
 #EXTINF:-1,TNT_Series
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7cbb369273d8a66e140cc79e26656756/tntseries.m3u8
 #EXTINF:-1,ESPN
-https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/da8872145127fb474bdf52136f224aad/espn.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765929730/ei/oZ5Bae3hO6GS-LAPjJLHsQc/ip/2804%3A1b3%3A9701%3Ad3ba%3Ac53c%3Ad431%3Ac0ab%3Ab045/id/cKjAu2XKe3E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51684460/txs/51684460%2C51684461%2C51684462/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/hightc/yes/siu/1/bui/AYUSA3AKfULbPhHSIpi4puxTrE5mDKOji6SLpzeJyWKjJkg5w9Ytvo1_mYqea4OyXf1-0d4FYg/spc/wH4Qq5xA88vcSLfeIiBHE3motLjIyRSS_-EuOzMIdRckl5VlL5DWQSc/vprv/1/go/1/ns/d5T57MlRmGOjR3p1qrDnNJAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/2MdV6OfeEcvwD0LnIa9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMk_JJJABnX84NpSd5kDIhkq4im3xwFqy-bUfzzF0yloAiEA65fsYHjqezCahLigJGIGAT9bhqZso9-lCeJhEZda4ig%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2",ESPN 2
 https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b4b8f9c3b21f7d0f5da364bec2ae23b8/espn2.m3u8
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3",ESPN 3
